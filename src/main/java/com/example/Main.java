@@ -55,7 +55,6 @@ class BlackAndWhiteFilter extends ImageFilter {
     public void apply() {
         super.apply();
         System.out.println("Applying Black and White Filter.");
-        // Логіка застосування фільтру
     }
 }
 
