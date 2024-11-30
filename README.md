@@ -10,13 +10,13 @@
 
 ## 🛠️ Демонстрація роботи
 
-![Демонстрація роботи](https://github.com/user-attachments/assets/35714135-d0bb-494e-88a6-3a27d1de9bc3)
+![Демонстрація роботи](https://github.com/user-attachments/assets/33e6ccbc-2985-41cd-9dc6-a00c58b60a48)
 
 ---
 
 ## 📐 UML Діаграма
 
-![UML_Diagram](https://github.com/user-attachments/assets/862941f6-eaf3-4002-9fbe-0969a39b7fd7)
+![UML_Diagram](https://github.com/user-attachments/assets/3ff50ca5-395f-4a8c-870c-e07740dd94d7)
 
 ---
 
